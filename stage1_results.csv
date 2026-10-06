@@ -1,0 +1,3 @@
+Model,Size (MB),Accuracy (%),Latency (ms)
+Baseline,41.511959,87.0,156.1063090457192
+ResNet14,10.372121,84.58,12.647245503679107
