@@ -22,7 +22,7 @@ Main findings:
 - The same regularization lowers the diversity of the client models. This makes the client ensemble a weaker teacher, so server accuracy drops and the fusion gap grows, especially as heterogeneity increases.
 - Bidirectional distillation therefore trades global server accuracy against local client stability.
 
-The full text is in [`Fed_comp_bachelor (18).pdf`](Fed_comp_bachelor%20(18).pdf). Its chapters are:
+The full text is in [`thesis.pdf`](thesis.pdf). Its chapters are:
 
 1. Introduction
 2. Background and Related Work (data heterogeneity, knowledge distillation, federated learning, bidirectional distillation)
